@@ -1,0 +1,5 @@
+backend/libraryproject/.idea
+backend/libraryproject/.venv
+
+frontend/node_modules
+frontend/.expo
